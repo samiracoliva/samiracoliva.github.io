@@ -1,1 +1,54 @@
+/*########### BODY ###########*/
+body{
+     background: #f2f2f2;
+     text-align:center;
+    
+}
+
+/*########### TAGS ###########*/
+table {
+    
+    background: red;
+}
+
+hr{
+    color: 595959;
+    width: 1000px;
+    
+}
+
+a:link{
+    
+    color: red;
+    text-decoration: none;
+}
+
+a:visited{
+    
+}
+a:hover{
+    color: #94b8b8;
+}
+a:active{
+    
+}
+
+blockquote {
+    max-width:600px;
+    height:220px;
+    color: #000000;
+    text-align: left;
+    border-left: 10px solid #af7ac5;
+    padding-left: 5px;
+    margin:0 auto;
+    background: #FFFFFF;
+    width:auto;
+    display:table
+}
+
+
+
+
+
+
 
